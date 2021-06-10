@@ -1,0 +1,91 @@
+
+body{
+    background-color: white;
+    background-size: cover;
+}
+nav{
+    background-color:  #2e2e74;
+    padding: 10px;
+    margin: 0;
+   width: 100%;
+}
+ul{
+    list-style: none;
+    display: inline-block;
+}
+li{
+
+    margin-left: 70px;
+    float: left;
+    color: #e5edf1;
+}
+ul li:hover{
+    border-bottom: 2px solid;
+    color: #e5edf1;
+}
+button{
+    background: none;
+float: right;
+margin-top: 20px;
+margin-right: 30px;
+}
+div{
+background-color:  #e6e6ff white;
+margin: 50px;
+padding: 30px;
+float: left;
+width: 150px;
+height: 150px;
+box-shadow: 5px 10px 8px 10px #888888;
+}
+.container3:hover{
+    background-color: #e6e6ff;
+}
+.container2:hover{
+ background-color: #e6e6ff;
+
+}
+.p1{
+    margin-right: 10px;
+}  
+.container2{
+    background-color:white;
+    float: left;
+    box-shadow: 0 0 0 0 #888888;
+}
+.button1{
+  text-align: center;
+}
+button a{
+    color:#e6e6ff;
+    text-decoration: none;
+}
+.class1{
+    background-color: #2e2e74;
+    width: 100%;
+    box-shadow: none;
+    margin: 3px;
+    height: 400px;
+}
+div.class2{
+    box-shadow: none;
+
+}
+.wclass2{
+    box-shadow: 0 0 0 0 #888888;
+
+margin: 85px;
+padding: 30px;
+float: left;
+width: 150px;
+height: 250px;
+color: white;
+
+}
+.dclass1{
+    background-color: #2e2e74;
+    width: 100%;
+    box-shadow: none;
+    margin: 3px;
+    height: 300px;
+} 
